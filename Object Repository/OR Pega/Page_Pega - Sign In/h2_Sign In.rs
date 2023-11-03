@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Sign In</name>
+   <tag></tag>
+   <elementGuidId>116673d0-e2c9-4a33-b7e9-2008583f9ca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form20']/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.okta-form-title.o-form-head</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b0d9d3c4-e285-4f5b-a94b-a899db075b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-se</name>
+      <type>Main</type>
+      <value>o-form-head</value>
+      <webElementGuid>eff88d19-a067-4670-ad83-a74a1aa1e110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>okta-form-title o-form-head</value>
+      <webElementGuid>ac1dfd45-f748-4556-867e-ac5c6d6b9a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>284ecc8c-6a22-4fd2-ba7f-843b5f11efc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form20&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/h2[@class=&quot;okta-form-title o-form-head&quot;]</value>
+      <webElementGuid>479baf06-69b5-4de2-8b69-1d980e177737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form20']/div/h2</value>
+      <webElementGuid>fd127aef-3083-4b4c-af14-84fee24b5132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::h2[1]</value>
+      <webElementGuid>458cdf02-df85-4327-868d-94a79cfd3d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>18663d57-7459-401f-a4db-a5115a7e8836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>97d8090e-8014-4736-9cc5-75e7ae6eb1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>f18d1fc9-7327-4767-a5b7-bc803139add2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

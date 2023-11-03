@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Create Case Type</name>
+   <tag></tag>
+   <elementGuidId>f573c80a-f276-4bc2-a967-8775b7f9f2d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RULE_KEY']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>65f74c97-73e9-4a11-be2a-e9e430e26996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>20150317112515058014768-Label</value>
+      <webElementGuid>6ed908fd-7307-4ed0-800a-2840355c41c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-caption dataLabelForWrite heading_1_dataLabelForWrite icon-required </value>
+      <webElementGuid>a47dc603-4054-42ed-a3aa-056a23cf3e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>eebf78aa</value>
+      <webElementGuid>19159eb2-3f0f-460d-ac99-203764ba4c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-required</name>
+      <type>Main</type>
+      <value>*</value>
+      <webElementGuid>df39ae5e-45e9-4169-879e-ec96866c8645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Case Type</value>
+      <webElementGuid>a3812a34-386b-4eab-8aa3-460396d50784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pyFlowActionHTML&quot;)/span[1]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-none&quot;]/div[@class=&quot;layout-body&quot;]/div[@class=&quot;flex content layout-content-simple_list  content-simple_list&quot;]/div[@class=&quot;content-item content-layout item-1 flex flex-row&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-content_emphasis_full_height&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-layout item-1 flex flex-row&quot;]/div[@class=&quot;layout layout-none&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;content layout-content-stacked  content-stacked&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing&quot;]/div[@class=&quot;content-inner&quot;]/div[@class=&quot;layout layout-none&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-field item-1 remove-top-spacing remove-left-spacing flex new-type-entry&quot;]/label[@class=&quot;field-caption dataLabelForWrite heading_1_dataLabelForWrite icon-required&quot;]</value>
+      <webElementGuid>64dde9b3-6aec-440b-96ed-382d049b2c03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RULE_KEY']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/label</value>
+      <webElementGuid>41d303a4-4200-4199-a35a-b03f5eb046af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure this view'])[1]/following::label[1]</value>
+      <webElementGuid>3e7d513d-26b8-49f3-9867-b1f144d7d02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pzCreateOrEditCaseType'])[1]/following::label[1]</value>
+      <webElementGuid>42916b41-9763-485c-bd01-3825e41e71b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI suggestions:'])[1]/preceding::label[1]</value>
+      <webElementGuid>8448cd8c-3554-4665-88b8-e548b5c500b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build Life Cycle and Data Model?'])[1]/preceding::label[1]</value>
+      <webElementGuid>d76202ed-941a-44a5-b4ad-c008ed179325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Case Type']/parent::*</value>
+      <webElementGuid>03f47709-27f9-4498-b424-772b5fc4aa6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div/label</value>
+      <webElementGuid>389d804e-996a-40c1-a6cb-bfe182afc568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Create Case Type' or . = 'Create Case Type')]</value>
+      <webElementGuid>3add6fba-ecd7-4628-82d6-d97c1a3f80e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

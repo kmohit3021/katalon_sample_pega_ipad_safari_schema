@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Use AI to suggest a life cycle and data m_245ba6</name>
+   <tag></tag>
+   <elementGuidId>259568a5-4c27-4f6a-97bc-5a5624998a9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RULE_KEY']/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-openclose</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1ed9fa2c-9e99-4f5b-9134-2f8bf4779d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ce4e6212-ac7f-4d27-bf53-4a2d9d520cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-openclose</value>
+      <webElementGuid>dc8f0b2f-60bc-4620-beb9-91cfca56dfb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EXPAND-PLUSMINUS&quot;)/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;header-left&quot;]/i[@class=&quot;icon icon-openclose&quot;]</value>
+      <webElementGuid>8a0e4889-f931-4df8-9551-d6c8aa6ec1a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RULE_KEY']/div/i</value>
+      <webElementGuid>f84725fe-1565-4c7e-8986-4fe20b5ea43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>472f212f-8582-44ff-81e0-6f7f09f5bba4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

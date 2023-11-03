@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Trials</name>
+   <tag></tag>
+   <elementGuidId>dc4d32f3-3984-4626-b786-ea8ff874ce22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='RULE_KEY']/div/div/div/div)[234]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-item.content-label.item-1.remove-top-spacing.remove-left-spacing.flex.flex-row.heading_2_dataLabelWrite.flex-align-center.dataLabelWrite.heading_2_dataLabelWrite</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>27734ff2-a3b0-4336-9e7d-cc060bfb1013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-item content-label item-1 remove-top-spacing remove-left-spacing flex flex-row heading_2_dataLabelWrite flex-align-center dataLabelWrite heading_2_dataLabelWrite</value>
+      <webElementGuid>f8fce922-6755-4865-9f27-0747f188fc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>string_type</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>80bb8126-769a-4e2b-bd61-5649d64cfaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>reserve_space</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>23869816-7e26-49a5-b97d-8e16452992c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Trials</value>
+      <webElementGuid>6606a66b-1ba2-430a-b835-e674e9624471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2&quot;)/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-stacked  content-stacked&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline_middle  content-inline_middle&quot;]/div[@class=&quot;content-item content-label item-1 remove-top-spacing remove-left-spacing flex flex-row heading_2_dataLabelWrite flex-align-center dataLabelWrite heading_2_dataLabelWrite&quot;]</value>
+      <webElementGuid>289fd1aa-231e-4610-88a3-ca1188e99aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div/div/div/div)[234]</value>
+      <webElementGuid>901cbf90-34fd-4b35-83aa-8bc9b1d1d1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Preferences'])[1]/following::div[6]</value>
+      <webElementGuid>6c2acb94-4063-4c2f-b143-33b17a8a8cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opt-Out'])[1]/following::div[6]</value>
+      <webElementGuid>0aa8ce8a-600b-4143-b27a-3053c647b848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPIRES DEC 03, 2023'])[1]/preceding::div[6]</value>
+      <webElementGuid>ad7f51d4-0678-47ab-895d-66e61631620d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team Owner'])[1]/preceding::div[11]</value>
+      <webElementGuid>53ecf798-205f-4577-a80b-24df6ce15826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/span[2]/div/div/div/div/div</value>
+      <webElementGuid>63483bc8-1fec-41a2-84d7-ba64fe68ee78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Trials' or . = 'My Trials')]</value>
+      <webElementGuid>92234d40-9f9a-4c0e-961c-a2235dff6b31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

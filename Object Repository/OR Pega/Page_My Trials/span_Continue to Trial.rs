@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Trial</name>
+   <tag></tag>
+   <elementGuidId>d909c491-44c9-48c4-b6ac-f53fef816ef0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='pyNavigation1694785157687']/li/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.menu-item-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>637e4a72-5c7e-47d3-bf4f-a46056574d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-title</value>
+      <webElementGuid>6857c6bd-3820-4766-aa27-09d0bc0d6fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>..</value>
+      <webElementGuid>b7b63e2c-4cf7-417e-9b2f-f41265ccc622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Trial</value>
+      <webElementGuid>8d95cbeb-0d80-4e25-9726-f427b7a12c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pyNavigation1694785157687&quot;)/li[@class=&quot;menu-item menu-item-enabled menu-item-active&quot;]/a[@class=&quot;menu-item-anchor&quot;]/span[@class=&quot;menu-item-title-wrap&quot;]/span[@class=&quot;menu-item-title&quot;]</value>
+      <webElementGuid>4e62f325-da46-4279-9a78-d4c60683332e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pyNavigation1694785157687']/li/a/span/span</value>
+      <webElementGuid>b56e50df-3f97-4b28-81bf-a283f23d0b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click on the information icon to learn more.'])[1]/following::span[2]</value>
+      <webElementGuid>5b304f06-47d0-4e0f-bb28-a370a204b940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Any trials you signed up for on the Pega Platform are accessible here.'])[1]/following::span[4]</value>
+      <webElementGuid>74a092ad-e6b1-4c83-920f-78a97912ed59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Operator to default settings'])[1]/preceding::span[1]</value>
+      <webElementGuid>a4b526c7-9df9-471d-9071-4f49a0dec5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community Edition FAQ'])[1]/preceding::span[3]</value>
+      <webElementGuid>e6d23282-3861-49a8-bc33-57ed1a803e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Trial']/parent::*</value>
+      <webElementGuid>dd935a62-3f6b-42f3-8829-ea697e6c75f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span/span</value>
+      <webElementGuid>133526af-db6a-41f4-b2d5-9c685d68bb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Trial' or . = 'Continue to Trial')]</value>
+      <webElementGuid>b944fc50-b741-449b-a0f1-d707cf3a1c6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

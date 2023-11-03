@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delete Case Type</name>
+   <tag></tag>
+   <elementGuidId>fdc6b51d-f0b2-4dcc-9547-5d57d7fe91ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='pyNavigation1698993087744']/li/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7ebf895-045f-426d-8c00-d94ff6ac9861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-title</value>
+      <webElementGuid>93fecdfd-e34d-48dd-95f8-f2eab6e3e7fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>..</value>
+      <webElementGuid>15e102bc-8ed2-4c8b-b07a-f976d140b7e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Case Type</value>
+      <webElementGuid>a86ac522-6da1-46f5-a42a-4cec39b44ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pyNavigation1698993087744&quot;)/li[@class=&quot;menu-item menu-item-enabled menu-item-active&quot;]/a[@class=&quot;menu-item-anchor&quot;]/span[@class=&quot;menu-item-title-wrap&quot;]/span[@class=&quot;menu-item-title&quot;]</value>
+      <webElementGuid>8adc0576-2c58-4fad-bcc7-f393149b11ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pyNavigation1698993087744']/li/a/span/span</value>
+      <webElementGuid>af7fba2c-e59b-4c65-bc16-7adf672d7b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No branches available'])[1]/following::span[2]</value>
+      <webElementGuid>c35c2d99-5433-4abb-9f33-58b50dde2e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Below are records you have edited and saved but not yet published'])[1]/following::span[2]</value>
+      <webElementGuid>df93c887-4296-40ec-b6ad-bcd60030e844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Cases'])[1]/preceding::span[1]</value>
+      <webElementGuid>1bed425c-2b3a-4849-ae5d-5ad62e61914c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Case Type']/parent::*</value>
+      <webElementGuid>60e719b6-f321-467f-8a1f-74f42325ed92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/ul/li/a/span/span</value>
+      <webElementGuid>1fe1f265-6a83-48ee-b127-56db0bb3f0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete Case Type' or . = 'Delete Case Type')]</value>
+      <webElementGuid>f2053d59-b4cf-4749-8154-c84ceb15a4bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

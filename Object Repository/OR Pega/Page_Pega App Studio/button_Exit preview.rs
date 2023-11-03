@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Exit preview</name>
+   <tag></tag>
+   <elementGuidId>fe4be931-0e5e-4527-b4de-21cf0bad1717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;pzComposerBarRight_pyPortalHarness_15&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='pzComposerBarRight_pyPortalHarness_15']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>113cfc1b-decf-46df-8110-64b71d43dfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>back-to-preview-btn</value>
+      <webElementGuid>c7681af0-6dc2-4bb1-9ca0-234904eae4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>[[&quot;runScript&quot;, [&quot;formFactorIframe.backToEdit(\&quot;\&quot;)&quot;]]]</value>
+      <webElementGuid>5a1d4995-de2e-4554-8994-46118aa09728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pzComposerBarRight_pyPortalHarness_15</value>
+      <webElementGuid>4b37d468-e9a9-4c45-a3e1-1f256f245871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Icon_light pzhc pzbutton</value>
+      <webElementGuid>20adaeff-ee48-4553-85c6-2d2da4e0037a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>36bef75c-bd08-4570-84b5-5b8233bfbbac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exit preview</value>
+      <webElementGuid>979b2ba4-2726-44e1-a4ee-806b026d85e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l1&quot;)/div[@class=&quot;screen-layout-region-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-none  float-right set-width-auto&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;flex content layout-content-header_menu_secondary  content-header_menu_secondary set-width-auto&quot;]/div[@class=&quot;content-item content-sub_section item-1 remove-all-spacing flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-header_menu_secondary  content-header_menu_secondary auto-width-column&quot;]/div[@class=&quot;content-item content-layout item-1 remove-all-spacing set-width-auto flex flex-row&quot;]/div[@class=&quot;flex content layout-content-header_menu_primary content-header_menu_primary set-width-auto back-to-edit&quot;]/div[@class=&quot;content-item content-field item-1 flex flex-row dataValueWrite&quot;]/span[1]/button[@class=&quot;Icon_light pzhc pzbutton&quot;]</value>
+      <webElementGuid>b727661e-d344-450c-bbf0-f3bcdf7220ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='pzComposerBarRight_pyPortalHarness_15']</value>
+      <webElementGuid>3373bb90-ad6d-411b-9b26-35f0ea5739a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div/div/div/div/span/button)[6]</value>
+      <webElementGuid>634422a0-757d-4fe2-9277-6a62c1b57a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[1]/following::button[1]</value>
+      <webElementGuid>9b23a8e8-313d-46c1-9c45-13b5a6b5e439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application :'])[1]/following::button[5]</value>
+      <webElementGuid>3e41ac1f-a089-4bb0-8229-a0109a9e60e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::button[1]</value>
+      <webElementGuid>5cfc5613-f644-4e7a-987c-2b6737b97294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEVELOPMENT'])[1]/preceding::button[8]</value>
+      <webElementGuid>310332b0-a4f6-45bd-b95b-6fcbc96fddcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Exit preview']/parent::*</value>
+      <webElementGuid>6771fa55-fa8b-4acd-9069-d802fdbd85bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/span/button</value>
+      <webElementGuid>2dd81598-adfb-44fd-9e2c-daf963855f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'pzComposerBarRight_pyPortalHarness_15' and @type = 'button' and (text() = 'Exit preview' or . = 'Exit preview')]</value>
+      <webElementGuid>202a3b01-c5af-45f4-8b02-67b5e8808f2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

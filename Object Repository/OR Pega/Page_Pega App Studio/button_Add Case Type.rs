@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Case Type</name>
+   <tag></tag>
+   <elementGuidId>6249e342-3dd2-4719-8711-6af531166c9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='pzCreatNewCaseType_D_pzCaseTypeConfiguration_6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;pzCreatNewCaseType_D_pzCaseTypeConfiguration_6&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f63af45-24df-4d9f-a8c1-1477a7bb6198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>2019110702162004673629</value>
+      <webElementGuid>f338d056-49f9-4b8d-be09-c38fa692dd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>[[&quot;runActivity&quot;, [&quot;&quot;, &quot;&quot;, &quot;D_pzCaseTypeConfiguration&quot;, &quot;:event&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;pzuiactionzzz=CXt0cn17RENTUEFfcHhFeHByZXNzfTU1ZDA3MWQwMTU2ODQyNjRiZTBkYmM0ZjM3MWQ4ZDU5YmY4MWZhNzdjOTVjOTBkN2MyODNiZGY3YzcyZjAxMjIyNjY4MjY1MTZlZTlmODZhZTE2NjYwOTYzMTJiNDFmNjBlYmE1ZDUyNzcyZTYxOWZlZWRhZTE4MDZmNTM1NjgwNDU5ZmUzNzQxMzNmNDkzODQzOGU1YzBmNTRkM2MxMDczNjYzYzg5ODU2NjYwNzUzNjlhYTFiMDU1ZjBkODUzYzVmM2RkZDhjNTM2NzMxODMzYWU1NjZhZjk0NjBiNDE3YzNhMTUwNjFjM2FjODVkZTJmOGViZWE0ZGY5OThmNzU1NTFkYjY0Zjc1NDEwZjNmNjNjOTllNTNjMmRiNzhjYmE2ZDJiMjRlNzM3M2ZmZjhiYzU2MzFkMTI1ODYwMmZkNGNkYmM5OGRjNmRlYzU3MmRiZDAwNmEyMzVhMzYzODM3OWE1ZThkY2FlZmE0YjA0NzgzMDYzNjVmNThiNjE1ZTJkYjQxZmExMmUwNWNiNjk4YzRiZTZlMjA5M2VlM2M2MmY3M2VhZjhjZjRhZjk1MWI3M2NkZTdkMjRjZTk4Mjg%3D*&quot;]],[&quot;launchFlowInModal&quot;, [&quot;pzCaseTypeCreationWrapper&quot;, &quot;Work-&quot;, &quot;&quot;, &quot;TempWorkPage&quot;, &quot;:event&quot;, &quot;&quot;, &quot;pzModalFlowTemplateForCaseType&quot;]],[&quot;setMobileTransition&quot;,[&quot;pega.mobile.transitions.NONE&quot;]],[&quot;showHarnessWrapper&quot;,[&quot;newDocument&quot;,&quot;Rule-Obj-Class&quot;,&quot;pzCaseTypeLP&quot;,&quot;pzPrepareCaseTypeLP&quot;,{&quot;lpParamImmediateParent&quot;:&quot;&quot;,&quot;lpParamTopMostParent&quot;:&quot;&quot;,&quot;lpParampyCircumstanceVal&quot;:&quot;&quot;,&quot;lpTitle&quot;:&quot;&quot;,&quot;lpParamIsCaseOpenedFromUCC&quot;:&quot;&quot;,&quot;preActivityDynamicParams&quot;:{&quot;lpParampyClassName&quot;:&quot;#~D_pzNewCaseTypeDetails.pyClassName~#&quot;,&quot;lpDisplayDataModelTab&quot;:&quot;#~D_pzNewCaseTypeDetails.pyLabel~#&quot;}},&quot;D_pzCaseTypeConfiguration&quot;,&quot;EditModeExpressTab&quot;,&quot;&quot;,&quot;No&quot;,{&quot;pyDataTransform&quot;:&quot;pzSetExpressSkinForEditMode&quot;,&quot;pyDataTransformParams&quot;:{}},&quot;:event&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;false&quot;]],[&quot;runActivity&quot;, [&quot;&quot;, &quot;&quot;, &quot;D_pzCaseTypeConfiguration&quot;, &quot;:event&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;pzuiactionzzz=CXt0cn17RENTUEFfcHhFeHByZXNzfTU1ZDA3MWQwMTU2ODQyNjRiZTBkYmM0ZjM3MWQ4ZDU5YmY4MWZhNzdjOTVjOTBkN2MyODNiZGY3YzcyZjAxMjIyODNhNWZjOGE4N2RiMTVhMjk0NTA3OTllMGE2ZDNmOWY4MjkyZWJmZTI0ZWFkODM2NTY5OWQ5MGUxNWUzNzNlNDVhNGI3YjUyZDEwNzU5YjQ4MmIzNjZhYmU2N2QxYzEzNGQ2YjlmMjZhMTQ1MTM5NTNmNDM3NWYyMmJmMmI3YTYxNmIxZmI5MGU4MjYyZmY5YzkzZGQyYzA5ZDkyNjAxYzM5NmEzMDI5NDI0Njk3NmRlOGNmZWM3MzA3YTljNWFmZDNhYTU4NDg4ZWYwMjAzNTZkZmZmMjM3NjA1NTQ4MjljODZkNjUyODM2MjFiMTI1NjZhODNlNDEzYTI0ZmYwMmM0MGQ0ZjM3ZjEwMjA1MDA5N2IyZjIzMTI5NDQxOTIzMzQ1MThjNzMxOGE1ODZkZmEyMTY3ZjFkZDVjOWM0NjI0MGY0NTViMWZlNmM2N2M1ZmMwNTE3MzA0ODVlNzdjNGE1YjI4Nzg4ODU5Y2U5NzY1YTZjMmY1ZTdmZTYyMGUxZDgzNmZjM2YyNjBjZTdmNzNmNGJhNWVkYzY1ZjAwMjNhYzBjYWU0ZWIzMmVjMzc2OGI1MTFhMjFlODk1MTE5YTZmNTdlYjBkYzE5MWUwNzgyMjM4ODg1NDJmZmNhOTZhZGM5NzU0OTQ2YTVmNTUwYTFmMWJlMDJmZjA4OTM4YjEwMWU1Y2YyZjJjMjFiYjdiNDZkNmIyMWE2MWIxYTkxNjdjMzkwOWIwMDU2ZTYwMzA5ZmY0YzM2NmZlNjY4MWRlZDRmOWRlYjY0MDllMTlhNmQ0NDMxNTJhNTUwODAzMWRjM2IxMjk5OWFlNTU4NDc4MjA2NjMxZWMxZmIyNTNiZWRhNDg4YzEzMjBkMzUyMDlhYjA4NDkxYjAzZDdlNWZlY2UyNGJjNzNjZTJhMzZiODk4MjNhNmJjMTk0YzY2YzlhZTQxZmNkNzNiMGI0MjE4OGFhMTI3N2NiMmM1Nzc4ODYxYjBiNTJhOTgzMDEyMjFmNTMxYTdmYTdlZjVmNWJhZGVlMjNmMjc3N2Y2MjQ3MzhlZTY5OTRhYjVjNmUxZDA1NDFhYjU1ZDRmMjEwOWQyOGRlNGVhNTE4OTc5ZjVlMzk3YjAyNTQ3ZDA0MTgxZWYzZGUyYmUwOThmMzU4NWQ5MTFiODM0NTM3YmM1MTcwYjUyMjlhYTVhYWUyYzYzNmFkYWFlOWVhNTljOTFjYmYxMTE0NTk2OWRhZjViMWEy*&quot;]],[&quot;runScript&quot;, [&quot;formFactorIframe.hideFormFactorIframe()&quot;]],[&quot;runScript&quot;, [&quot;pega.ui.composer.formfactor.reloadPreview()&quot;]]]</value>
+      <webElementGuid>ff558624-c915-4dc0-bfd6-12cb91ff7a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pzCreatNewCaseType_D_pzCaseTypeConfiguration_6</value>
+      <webElementGuid>85552452-0a41-45d2-bbf0-ec92f9e1a0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Simple pzhc pzbutton</value>
+      <webElementGuid>6a499c35-c6fa-4fa7-ace3-f7829abbd6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4a85ce6-e0d9-4aca-b243-70d0c919a849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Create new Case Type</value>
+      <webElementGuid>82677e84-ef9e-4bb7-889e-dc39e15d4496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Case Type</value>
+      <webElementGuid>9ae5b636-0aae-4401-a350-2d001455c180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HARNESS_CONTENT&quot;)/div[2]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default&quot;]/div[@class=&quot;layout-body&quot;]/div[@class=&quot;flex content layout-content-stacked  content-stacked  cs-styled-grid-wrapper&quot;]/div[@class=&quot;content-item content-sub_section item-3 flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-stacked  content-stacked  centered margin-tb-3x&quot;]/div[@class=&quot;content-item content-sub_section item-5 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-none  set-width-auto&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;content layout-content-inline_middle  content-inline_middle set-width-auto clearfix&quot;]/div[@class=&quot;content-item content-field item-1 remove-all-spacing&quot;]/div[@class=&quot;content-inner&quot;]/div[@class=&quot;field-item dataValueWrite&quot;]/span[1]/button[@class=&quot;Simple pzhc pzbutton&quot;]</value>
+      <webElementGuid>f368535c-3ed8-45be-81bc-b8dd5f8a125f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='pzCreatNewCaseType_D_pzCaseTypeConfiguration_6']</value>
+      <webElementGuid>2cdc99d6-d89a-4be9-9d4e-7417fbeabaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div[2]/div/div/div/div/div/span/button)[2]</value>
+      <webElementGuid>f118d147-e21b-40e2-b834-b965234255cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Case represents work in your application that follows a life cycle to completion.'])[1]/following::button[1]</value>
+      <webElementGuid>5df468b5-c86d-40b8-b948-6363f2307437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Case Types'])[1]/following::button[1]</value>
+      <webElementGuid>eea8b36a-945b-424d-8933-2c2950e3066a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish all'])[1]/preceding::button[1]</value>
+      <webElementGuid>4abcaf8e-09ab-4079-985d-1ae65ed76b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard all'])[1]/preceding::button[2]</value>
+      <webElementGuid>4964957f-2f11-4946-9bd7-64c1432f5b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Case Type']/parent::*</value>
+      <webElementGuid>98f31b7d-5b99-46cd-94d7-92725f2ba898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/div/span/button</value>
+      <webElementGuid>0f86770a-aa9d-4e0c-9c0d-345b7863e8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'pzCreatNewCaseType_D_pzCaseTypeConfiguration_6' and @type = 'button' and @title = 'Create new Case Type' and (text() = 'Add Case Type' or . = 'Add Case Type')]</value>
+      <webElementGuid>a65a1eb5-a7ff-4a7c-b1c0-d166b622e8e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

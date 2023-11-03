@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add data object</name>
+   <tag></tag>
+   <elementGuidId>da89fcbd-f650-4cd7-87d8-e3224754775e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;pzNoDataObjects_D_pzDisplayDataTypes_4&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='pzNoDataObjects_D_pzDisplayDataTypes_4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0613ea37-1095-4961-8340-129041fc97dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>2018032905233809136130</value>
+      <webElementGuid>3df39f4e-83a3-47d6-83fa-4651bd012291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>[[&quot;runActivity&quot;, [&quot;&quot;, &quot;&quot;, &quot;D_pzDisplayDataTypes&quot;, &quot;:event&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;pzuiactionzzz=CXt0cn17RENTUEFfcHhFeHByZXNzfTQzMDI2ZDgzN2ZlZDA5MTcyMWQ2ZjU1MTMyMDU4MjEwMGQ2MzM5NTYxM2ZmZTM3OTk5OGM3NmU1OGRmNWYzNjc1ZmUxODY5NGJhYTYwNzg5ZmNhMjdkMmU5NjJmNjkwNmI2M2E4NGJlMDM0ZDRjYWQ3ZGE0YTI1ZDkwZTFiZmVjZWI0ZmFlZjU4NTEyYmEwNzkwNGYxMWRkOTA2MGY2ZjM5NGVkNDZjMTAzNDk5ZWNkYzE4NmIzODBhNmE2Y2VkYmUxODFkMmRjOGQxYjk1MjE0NmQ3YWFiMzBlNWZiZTE4NjQ5MTkxZjg3ODIxNjU5YjVhZTQzZmYxOGQxNmZkMTBjYTVjZjI5ZjNhZTFkMWE3ZDM1NjJmNjY0MDliMzQzNjJhZDMyOTVlYjY0OTBjMjNlZmI4YjE5NDlmYmZiM2I4MDVlM2IzNDZiNDQ5YmVhNDljZWRhNGQyNmY3NTgxNmZiY2U4NWU2N2Q3NDI2MTY1MzAzODlkYWRhMDk3M2MwNGU0NWM2ZmE5NjZiZDA3Y2E0ZTIzNGVkNWRjZDRiYzUzYTY3YzliY2YwNDk2Yjg3MTRlN2QxZWM1ZDc5ZTJlYTY5ZTVjNTQ4MDc2ZTVkZDAzNDk2Nzg3NzE0MjU3ZGY3ZTcxY2M5NTFlY2VhOGJjOGY4MTI3Nzg1ODUxYTU1YWM4MmNkNzlhNTFmMWE4NzM5YzAzODBkNTg2MDQwNWRlNTVlZjE3MDg5YTgzNmU1ZDgxN2EyMTUxNDkzZDRkMDk1YzIzMWQyNjAyNGNjNGJmM2EwNjI5YmUwMmFlZTQ4ODk1ZWFjNjE5NjM4YmM2NDBkNWJlYWYzN2FmZDQyYThkZDQ4YTM1ZDkwOWFiMTY0MjM5ZTg2NjhmMDRlNWNkNjM0ZWRjMGU1NmNhMjZiNTMxZDQxYzhkNWI2OTFmODY2ODMxMzZmZWM2NjFjNzRlOGQ0ZDU3MWUxYWUyOTFkNDBlMmQ0Y2YwZWJlYmY5MWJmMzg5ZTZhOTlhMTU5YzFhY2ExMGQ0ZGUzN2UyOTE3Mjg1YzYxNmEwMzIxNTc4NDBjZjMyNGExMmY4MjU0NDQ5NTUxYTNmZWVhODQ2YjE3OTMzMjlhYTMyYWNhZDkxYmQyMDc0YzUzNDA4YjJmMTliZmIwMTE4ODJmYjdhOTllZDhmNDE3YmJkNDUyYTllNGExZDE1YjgyN2M4ZDlkNDNkZWM2OGU2M2JmNWQwMzJkZDMzNzQ2NTJiM2U5NzNkN2QyMmZkM2U2ZDliZmMyNmJlZmFlYzcyZDY4ZDQxNjQzNDY0ZDI1YmU4ODg5ZTY5ZTE3ZDJl*&quot;]],[&quot;launchFlowInModal&quot;, [&quot;pzConnectToDataSource&quot;, &quot;Pega-Int-DataSources&quot;, &quot;&amp;sourceIdentifier=&amp;dataObjectID=&amp;sourceDataPageClass=&amp;indexCount=&amp;dataObjectLabel=&amp;sourceIndex=&amp;systemName=&amp;action=NEW&amp;connectorName=&amp;sourceDataPageName=&amp;connectorClassName=&amp;configurationType=&amp;IntegrationType=&quot;, &quot;D_pzDataConnection&quot;, &quot;:event&quot;, &quot;&quot;, &quot;pzDataConnectionModalTemplate&quot;]],[&quot;runScript&quot;, [&quot;pega.desktop.checkForDataTypeCreationFailure()&quot;]],[&quot;setMobileTransition&quot;,[&quot;pega.mobile.transitions.NONE&quot;]],[&quot;showHarnessWrapper&quot;,[&quot;newDocument&quot;,&quot;Pega-Ext-ExpExplorer-Data&quot;,&quot;pzExpressLPHarness&quot;,&quot;pyPreLPHarnessActivity&quot;,{&quot;Type&quot;:&quot;&quot;,&quot;AddNew&quot;:&quot;New&quot;,&quot;ActiveTab&quot;:&quot;&quot;},&quot;D_pzDisplayDataTypes&quot;,&quot;EditModeExpressTab&quot;,&quot;&quot;,&quot;No&quot;,{&quot;pyDataTransform&quot;:&quot;pzSetExpressSkinForEditMode&quot;,&quot;pyDataTransformParams&quot;:{}},&quot;:event&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;false&quot;]]]</value>
+      <webElementGuid>3622cadd-28b4-4490-9bca-837aeb5b5497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pzNoDataObjects_D_pzDisplayDataTypes_4</value>
+      <webElementGuid>2dd8f812-6adb-41e4-85bd-aa319e48d0a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pzhc pzbutton</value>
+      <webElementGuid>a873b985-5727-4122-80cb-5adac9d46da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7254bd56-69f6-4057-adb6-4fbd3b7759f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add data object</value>
+      <webElementGuid>b929f13b-ae7b-41c0-bbfb-7783c97e34fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HARNESS_CONTENT&quot;)/div[@class=&quot;workarea-view-scroll-wrapper&quot;]/section[@class=&quot;workarea-view-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 flex flex-row&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;flex content layout-content-default  content-default  centered&quot;]/div[@class=&quot;content-item content-field item-4 remove-top-spacing remove-bottom-spacing flex flex-row centered dataValueWrite&quot;]/span[1]/button[@class=&quot;pzhc pzbutton&quot;]</value>
+      <webElementGuid>92a79118-a0d4-4799-90f3-7d09364d92f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='pzNoDataObjects_D_pzDisplayDataTypes_4']</value>
+      <webElementGuid>5c1d01bb-5330-4c21-8971-d2c616f33820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RULE_KEY']/div/div/div/div[4]/span/button</value>
+      <webElementGuid>860ceaa2-7fb8-4d4b-886b-161dcf0e70ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create data objects to store and distribute data throughout the application.'])[1]/following::button[1]</value>
+      <webElementGuid>150900e5-72a7-4a20-a575-cb67d8e1ffe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data objects'])[1]/following::button[1]</value>
+      <webElementGuid>e46931f6-27ce-428a-b468-cca847eab07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish all'])[1]/preceding::button[1]</value>
+      <webElementGuid>74046c31-bf72-4675-9063-b13e793ce1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard all'])[1]/preceding::button[2]</value>
+      <webElementGuid>beece826-4904-4aec-bfee-46693c65c8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add data object']/parent::*</value>
+      <webElementGuid>6ca4dfc6-385b-4e61-8212-1cb307c71f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div[4]/span/button</value>
+      <webElementGuid>d9e89a27-7ab6-4832-8c8a-160ac9b73f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'pzNoDataObjects_D_pzDisplayDataTypes_4' and @type = 'button' and (text() = 'Add data object' or . = 'Add data object')]</value>
+      <webElementGuid>c5a06774-7bb9-4344-810f-7d15f0bf35c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
